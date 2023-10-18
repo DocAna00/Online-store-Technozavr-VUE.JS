@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: '/Vue-app/'
+  publicPath: '/Online-store-Technozavr-VUE.JS/'
 })
