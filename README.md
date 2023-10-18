@@ -2,22 +2,17 @@
 
 Тема: разработка интернет-магазина гаджетов «Технозавр» на Vue.js с использованием REST API (учебный проект).
 
+Ознакомиться с функционалом и внешним видом сайта можно по ссылке: https://docana00.github.io/Online-store-Technozavr-VUE.JS/#/
+
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
 ```
-
-Index.html файл находится в паке public.
 
 Задачи:
 - работа с компонентами и модулями фреймворка Vue;
